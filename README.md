@@ -58,7 +58,7 @@ npm run dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](https://folio-fusion.vercel.app/) and test the app.
+Open (https://folio-fusion.vercel.app/) and test the app.
 
 ## Project structure (important files)
 
