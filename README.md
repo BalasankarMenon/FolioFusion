@@ -1,4 +1,5 @@
 # FolioFusion
+A sleek developer portfolio generator built with Next.js, Node.js, and MongoDB.
 
 Developer portfolio generator built with Next.js (App Router), Node.js, and MongoDB (Mongoose).
 
@@ -104,5 +105,7 @@ PRs welcome. If you change API shapes or authentication behavior, update this RE
 ## License
 
 This project currently has no explicit license in the repo. 
+
+
 
 
